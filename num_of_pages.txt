@@ -1,0 +1,25 @@
+
+14 : ./readings/01week/Modernism,Postmodernism&TheShortStory-1.pdf
+12 : ./readings/02week/Battle_Royal_by_Ralph_Ellison[1].pdf
+12 : ./readings/02week/Big-Two-Hearted-River-Hemingway-1[1].pdf
+14 : ./readings/03week/AGoodManbyO'Connor.pdf
+ 8 : ./readings/03week/Lottery(Jackson).pdf
+ 5 : ./readings/04week/Grace Paley - A Conversation with My Father-rotated (1).pdf
+ 5 : ./readings/04week/Neighbors(Carver)-1.pdf
+20 : ./readings/05week/Recitatif(Morrison).pdf
+12 : ./readings/05week/The_Red_Convertible(Erdrich).pdf
+ 9 : ./readings/07week/Escapes by Joy Williams.pdf
+12 : ./readings/07week/Trask-PuttingOutTheSun.pdf
+ 8 : ./readings/08week/GoodPeople(Wallace).pdf
+13 : ./readings/08week/InterpreterOfMaladies(Lahiri).pdf
+11 : ./readings/09week/GirlsAtPlay-Ng.pdf
+10 : ./readings/09week/TaraWhite(Willis).pdf
+ 6 : ./readings/10week/Darraj-ChasingValentino.pdf
+29 : ./readings/10week/WhatWeTalkAbout(Englander).pdf
+ 7 : ./readings/11week/LittleAmerica(Simmons).pdf
+ 7 : ./readings/11week/Shaik-BirdWhistle.pdf
+28 : ./readings/12week/Diaz-Cheater'sGuide.pdf
+ 4 : ./readings/12week/TheVine(Vossoughi).pdf
+17 : ./readings/13week/DoSumSum(Faison).pdf
+ 8 : ./readings/13week/LoonamTheAssistant.pdf
+Total pages: 271
